@@ -10,3 +10,24 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.col {
+    font-size:700%;
+    border-radius: 10px;
+}
+
+#todo {
+    margin: 15%;
+    padding: 2%;
+    border-radius: 50px;    
+}
+#contenedor {
+    padding: 2%;
+    border-radius: 50px;    
+}
+
+#clock {
+    padding: 2%;
+    border-radius: 30px;      
+}
+
